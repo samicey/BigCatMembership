@@ -1,0 +1,17 @@
+{
+  "name": "BigCatClub Membership",
+  "version": "1.0.0",
+  "description": " A membership system patterned after Devise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Obikaonu Samuel Chibuike",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
