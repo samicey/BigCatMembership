@@ -10,6 +10,8 @@
   "author": "Obikaonu Samuel Chibuike",
   "license": "ISC",
   "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
     "grunt": "^1.0.4",
     "grunt-contrib-jshint": "^2.1.0",
     "grunt-contrib-watch": "^1.1.0"
