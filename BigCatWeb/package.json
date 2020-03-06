@@ -13,6 +13,6 @@
     "jade": "^1.11.0",
     "morgan": "*",
     "pug": "*",
-    "membership":"samicey/BigCatMembership"
+    "membership":"samicey/BigCatClub"
   }
 }

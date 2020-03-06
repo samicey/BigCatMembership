@@ -1,5 +1,5 @@
 {
-  "name": "BigCatClub Membership",  
+  "name": "BigCatClub Membership",
   "version": "1.0.0",
   "description": " A membership system patterned after Devise",
   "main": "index.js",
