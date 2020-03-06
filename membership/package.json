@@ -1,5 +1,5 @@
 {
-  "name": "BigCatClub Membership",
+  "name": "BigCatClub Membership",  
   "version": "1.0.0",
   "description": " A membership system patterned after Devise",
   "main": "index.js",
@@ -15,5 +15,9 @@
     "grunt": "^1.0.4",
     "grunt-contrib-jshint": "^2.1.0",
     "grunt-contrib-watch": "^1.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.1",
+    "should": "^13.2.3"
   }
 }
