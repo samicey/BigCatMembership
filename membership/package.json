@@ -1,6 +1,6 @@
 {
   "name": "BigCatClub Membership",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": " A membership system patterned after Devise",
   "main": "index.js",
   "scripts": {
